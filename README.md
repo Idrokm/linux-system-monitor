@@ -14,4 +14,5 @@ A lightweight Python utility designed to monitor critical Linux system performan
 ## Installation & Usage ⚙️
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ldrokm/linux-system-monitor.git](https://github.com/ldrokm/linux-system-monitor.git)
+git clone https://github.com/ldrokm/linux-system-monitor.git
+
